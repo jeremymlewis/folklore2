@@ -6,7 +6,7 @@
     </div>
     <router-view/>
     <div class="footer">
-    <a href="">GitHub Repo</a>
+    <a href="https://github.com/jeremymlewis/folklore2">GitHub Repo</a>
   </div>
   </div>
 </template>
