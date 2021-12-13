@@ -5,6 +5,7 @@
         <h3>{{this.name}}</h3>
         <img :src="require('../images/'+this.img)">
         <h4>by {{this.author}}</h4>
+        <h4>Country of Origin: {{this.country}}</h4>
         </div>
         <div class="storyBox">
         <h5>My Story:</h5>
@@ -21,7 +22,8 @@ export default {
         name: "",
         img: "default",
         text: "",
-        author: ""
+        author: "",
+        country: "",
     }
    },
   beforeMount() {
@@ -42,6 +44,7 @@ export default {
                 this.img = story.image
                 this.author = story.author
                 this.text = story.text
+                this.country = story.country
             } 
         });   
       }

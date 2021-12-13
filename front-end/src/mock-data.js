@@ -4,7 +4,7 @@ let mock = [{
     author: "Juan Diaz",
     country: "Mexico",
     image: 'goat.jpg',
-    text: "I saw a goat get eaten by the Chupacabra!"
+    text: "Growing up in the country side of Mexico, I saw many strange things over the course of my life.  Perhaps the strangest was when I saw a goat get eaten by the Chupacabra!  My family had 4 goats, and one of them had gotten out of the enclosure so I was out looking for it.  Just as I was looking around, I saw a dark shadow and a large thing came over and ate the goat!  It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 2,
@@ -12,7 +12,7 @@ let mock = [{
     author: "William Henry",
     country: "Scotland",
     image: "nessie.jpg",
-    text: "The lochness monster ate my brother!"
+    text: "The lochness monster ate my brother! He was out for a swim in the lake, and when he went under he never came back up.  Later, I saw a green fin.  It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 3,
@@ -20,7 +20,7 @@ let mock = [{
     author: "I. Prancer",
     country: "United States",
     image: 'bigfoot.jpg',
-    text: "He has big feet and they smell!"
+    text: "He has big feet and they smell!  I was camping and he stomped into my camp and it was stinky.  He ate some hot dogs and took off. It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 4,
@@ -28,7 +28,7 @@ let mock = [{
     author: "Spencer Cox",
     country: "United States",
     image: 'lake.jpg',
-    text: "There is a monster in this here lake I tell ya!"
+    text: "There is a monster in this here lake I tell ya!  I was out sailing and I saw a big big shadow, even bigger than a whale, under my ship. It was really frightening and I don't want to ever see it again so I moved to another country."
 
   },
   {
@@ -37,7 +37,7 @@ let mock = [{
     author: "McKay Washington",
     country: "United States",
     image: '2ghost.png',
-    text: "The ghost said BOO! and that was very frightening"
+    text: "The ghost said BOO! and that was very frightening. It was really frightening and I don't want to ever see it again so I moved to another country."
 
   },
   {
@@ -46,7 +46,7 @@ let mock = [{
     author: "Richard A.",
     country: "Canada",
     image: 'syrup.jpg',
-    text: "It is revenge they want! After all the syrup we've eaten, eh!"
+    text: "It is revenge they want! After all the syrup we've eaten, eh! It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 7,
@@ -54,7 +54,7 @@ let mock = [{
     author: "Kaleb Hope",
     country: "Chile",
     image: 'ghost.jpg',
-    text: "I didn't even hear him sneak up on me!"
+    text: "I didn't even hear him sneak up on me! It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 8,
@@ -62,7 +62,7 @@ let mock = [{
     author: "Marcos Rubia",
     country: "Peru",
     image: 'antelope.jpg',
-    text: "They can just higher than a haunted house!"
+    text: "They can just higher than a haunted house! It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 9,
@@ -70,7 +70,7 @@ let mock = [{
     author: "Julien Markus",
     country: "Madagascar",
     image: 'lemur.jpg',
-    text: "He liked to move it, move it, and I was so scared!"
+    text: "He liked to move it, move it, and I was so scared! It was really frightening and I don't want to ever see it again so I moved to another country."
 
   },
   {
@@ -79,7 +79,7 @@ let mock = [{
     author: "Penny Lee",
     country: "Mexico",
     image: 'eyes.jpg',
-    text: "These eyes are always watching"
+    text: "These eyes are always watching.  Sometimes, people even see them look around.  I know it is just an old billboard, but I can't help but wonder who put them there. It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 11,
@@ -87,7 +87,7 @@ let mock = [{
     author: "Lesslie Walker",
     country: "United States",
     image: "monkey.jpg",
-    text: "I saw him steal a pack of gum out of a car!"
+    text: "I saw him steal a pack of gum out of a car! It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 12,
@@ -95,7 +95,7 @@ let mock = [{
     author: "Jean Jaque Fritzwenston",
     country: "Haiti",
     image: "candle.jpg",
-    text: "It was more than the wind..."
+    text: "It was more than the wind... the candle flickered for a minute and then went out. It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 13,
@@ -103,7 +103,7 @@ let mock = [{
     author: "S. Barnacles",
     country: "Oceania",
     image: "hash.jpg",
-    text: "THE HASH SPRINGING, THE MASH BRINGING, THE HASH SLINGING SLASHER!"
+    text: "THE HASH SPRINGING, THE MASH BRINGING, THE HASH SLINGING SLASHER! It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 14,
@@ -111,7 +111,7 @@ let mock = [{
     author: "Ness Likely",
     country: "Nepal",
     image: "mike.jpg",
-    text: "I love sushi!"
+    text: "I love sushi!  But this green monster once showed up at the sushi place. It was really frightening and I don't want to ever see it again so I moved to another country."
   },
   {
     id: 15,
@@ -119,7 +119,7 @@ let mock = [{
     author: "Winnifred Golpepper",
     country: "United States",
     image: "casper.jpg",
-    text: "He was pretty friendly!"
+    text: "He was pretty friendly!  He ate some popcorn and told me about his family.  It was really interesting!  I was going to hang out with him this Friday actually so if you see me after this Friday I can tell you more."
   },
 ]
 
