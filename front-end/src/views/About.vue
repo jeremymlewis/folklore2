@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>AmericanJeremy Folklore Project</h1>
+    <h1>Our Mission...</h1>
     <p>We are trying to gather as many stories as possible and share them with the world!</p>
     <p>Since 2021 we have been gathering and publishing personal stories and folklore.</p>
     <p>Send us your own stories:</p>

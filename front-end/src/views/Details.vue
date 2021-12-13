@@ -1,8 +1,7 @@
 <template>
   <div class="details">
       <div class="infoBox">
-    <h1>AmericanJeremy Folklore Project</h1>
-        <h3>{{this.name}}</h3>
+        <h1>{{this.name}}</h1>
         <img :src="require('../images/'+this.img)">
         <h4>by {{this.author}}</h4>
         <h4>Country of Origin: {{this.country}}</h4>
@@ -44,7 +43,7 @@ export default {
                 this.img = story.image
                 this.author = story.author
                 this.text = story.text
-                this.country = story.country
+                this.country =
             } 
         });   
       }
