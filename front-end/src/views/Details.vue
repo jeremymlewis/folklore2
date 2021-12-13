@@ -43,7 +43,7 @@ export default {
                 this.img = story.image
                 this.author = story.author
                 this.text = story.text
-                this.country =
+                this.country = story.county
             } 
         });   
       }
